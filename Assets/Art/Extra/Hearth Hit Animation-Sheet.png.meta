@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b60ac6a70523c89459bac2b3aa318ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1258621705427020317
+    second: Hearth Hit Animation-Sheet_0
+  - first:
+      213: -3791784497044864071
+    second: Hearth Hit Animation-Sheet_1
+  - first:
+      213: 893117327535422951
+    second: Hearth Hit Animation-Sheet_2
+  - first:
+      213: -3604517302270503231
+    second: Hearth Hit Animation-Sheet_3
+  - first:
+      213: 4872629267993399389
+    second: Hearth Hit Animation-Sheet_4
+  - first:
+      213: 7179913443310877608
+    second: Hearth Hit Animation-Sheet_5
+  - first:
+      213: 4048059111448067383
+    second: Hearth Hit Animation-Sheet_6
+  - first:
+      213: 8032289242486532626
+    second: Hearth Hit Animation-Sheet_7
+  - first:
+      213: 5222560433609318144
+    second: Hearth Hit Animation-Sheet_8
+  - first:
+      213: 7060167318993568793
+    second: Hearth Hit Animation-Sheet_9
+  - first:
+      213: -3414431096075262453
+    second: Hearth Hit Animation-Sheet_10
+  - first:
+      213: -1611727567966946630
+    second: Hearth Hit Animation-Sheet_11
+  - first:
+      213: -8806406714414488538
+    second: Hearth Hit Animation-Sheet_12
+  - first:
+      213: 5482640999087946543
+    second: Hearth Hit Animation-Sheet_13
+  - first:
+      213: 268336283125061428
+    second: Hearth Hit Animation-Sheet_14
+  - first:
+      213: -611808844337671531
+    second: Hearth Hit Animation-Sheet_15
+  - first:
+      213: -2961361868523055017
+    second: Hearth Hit Animation-Sheet_16
+  - first:
+      213: -3278070457850186486
+    second: Hearth Hit Animation-Sheet_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e738230b4ca5aa4da9ea260e2c8a7c7
+      internalID: 1258621705427020317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015e5ffd72f876428d4075607d6a380
+      internalID: -3791784497044864071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3543a8bcce964045bfbe345cb4b43dc
+      internalID: 893117327535422951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce10718da0a9748a0b95b4bf690347
+      internalID: -3604517302270503231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232fb10179b369e4d91153d6f0840f83
+      internalID: 4872629267993399389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b4724012ac714389c39731c7947a1
+      internalID: 7179913443310877608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918204516cdfd149ba6939082d3d34b
+      internalID: 4048059111448067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae3fd1ddb419c544a684149f3c4ecc5
+      internalID: 8032289242486532626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686f6a65724cb04d94af4d3fe5dc977
+      internalID: 5222560433609318144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb15e55d1f199478701c39245bdc49
+      internalID: 7060167318993568793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b96cd1c5cbee334cb9acc59febef39d
+      internalID: -3414431096075262453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4a84ad132f2c48a02165f14bd36ad
+      internalID: -1611727567966946630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82da4f00db1190479dde41a2c475be4
+      internalID: -8806406714414488538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f6389b8000f44e8fb7d78792d1308
+      internalID: 5482640999087946543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b154b2454a5d04aa6d1408850d156d
+      internalID: 268336283125061428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccadb8c6703192c4fbcd351efe31367a
+      internalID: -611808844337671531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 0
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f2a131e1a5304cacce05b9483a00d
+      internalID: -2961361868523055017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth Hit Animation-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 0
+        width: 151
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110df721edf056442a10009462993c4f
+      internalID: -3278070457850186486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
